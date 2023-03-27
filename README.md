@@ -19,7 +19,7 @@ This project will utilize healthcare data from stroke patients to gather extensi
 6. Which feature in our dataset impact on the possibility of stroke? 
 
 ## Parameters to consider:
-gender 
+gender \
 age 
 hypertension 	
 heart_disease 
