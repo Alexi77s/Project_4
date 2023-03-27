@@ -24,8 +24,8 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 ### Breakdown of Tasks:
 1. Research potential data sources
 2. Machine learning:
-  The data is cleaned, normalized, and standardized prior to modeling (from sql or spark)
+  The data is cleaned, normalized, and standardized prior to modeling (from sql or spark) \
   Machine learning model building
 3. Data Visualization:
-  Matplotlib
+  Matplotlib \
   Tableau
