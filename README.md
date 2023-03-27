@@ -7,8 +7,8 @@ We plan to use pandas, maplotlib, and SQL to make visual of the stroke predictio
 
 Questions:
 What Socioeconomic status of people will have a higher chance of strokes?
-Will analyzing data reveal that strokes are hereditary?
-Are there specific locations where there are more people to have strokes?
+Will analyzing data reveal that strokes are affected by marriage?
+Do smokers have a higher risk of having a stroke?
 Is the their diet affecting their likelihood  of having a stroke?
 What age is it more expected?
 
