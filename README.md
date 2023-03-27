@@ -20,15 +20,15 @@ This project will utilize healthcare data from stroke patients to gather extensi
 
 ## Parameters to consider:
 gender \
-age 
-hypertension 	
-heart_disease 
-ever_married 	
-work_type 
-Residence_type 
-avg_glucose_level 
-bmi 
-smoking_status 
+age \
+hypertension \
+heart_disease \
+ever_married \
+work_type \
+Residence_type \
+avg_glucose_level \
+bmi \
+smoking_status \ 
 
 
 ## Resources:
