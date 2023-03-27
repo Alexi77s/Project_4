@@ -18,6 +18,20 @@ This project will utilize healthcare data from stroke patients to gather extensi
 5. What age is it more expected?
 6. Which feature in our dataset impact on the possibility of stroke? 
 
+## Questions to ask:
+parameters to consider:\
+gender\
+age\
+hypertension\	
+heart_disease\
+ever_married\	
+work_type\	
+Residence_type\
+avg_glucose_level\
+bmi\	
+smoking_status\
+
+
 ## Resources:
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
