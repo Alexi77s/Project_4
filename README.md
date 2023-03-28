@@ -14,7 +14,7 @@ This project will utilize healthcare data from stroke patients to gather extensi
 1. What Socioeconomic status of people will have a higher chance of strokes?
 2. Will analyzing data reveal that strokes are affected by marriage?
 3. Do smokers have a higher risk of having a stroke?
-4. Is the their diet affecting their likelihood  of having a stroke?
+4. Is diet affecting likelihood  of having a stroke?
 5. What age is it more expected?
 6. Which feature in our dataset impact on the possibility of stroke? 
 
