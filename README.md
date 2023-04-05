@@ -8,7 +8,7 @@ Roy Jiang\
 Alexis Valdez
 
 ## Project Description:
-This project will utilize healthcare data from stroke patients to gather extensive clinical data. The collected data will be anlyzed and build the machine learning model to understand which features (gender, age, hypertension, and etc) mainly determine the potiontail of strokes. The analysis will include the correlation between each features and targeted result (have stroke or not). The project will provide valuable insights for doctors, clinical studies, and the general public health on the effects and prevention of strokes. Pandas, maplotlib, and SQL will be utilized to visualize the stroke predictions. 
+This project will utilize healthcare data from stroke patients to gather extensive clinical data. The collected data will be anlyzed and build the machine learning model to understand which features (gender, age, hypertension, and etc) mainly determine the potiential of strokes. The analysis will include the correlation between each features and targeted result (have stroke or not). The project will provide valuable insights for doctors, clinical studies, and the general public health on the effects and prevention of strokes. Pandas, maplotlib, and SQL will be utilized to visualize the stroke predictions. 
 
 ## Questions to ask:
 1. What Socioeconomic status of people will have a higher chance of strokes?
