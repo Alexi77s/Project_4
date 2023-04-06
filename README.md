@@ -46,6 +46,11 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
   ### Methods and Results:
 We used random forest classifier to first conduct machine learning. We achived good accuracy but very low recall for '1' stroke cases. We then attempted to reduce unbalanced data by using smote() and improved recall by 10%.
 
+Smote:
+
+![Screenshot 2023-04-05 at 9 12 23 PM](https://user-images.githubusercontent.com/114886937/230270326-541a615f-e1d7-4c53-89f7-0ea36b1aaa2b.png)
+
+
 We further used Logisticregression and SVM with various model tuning and achieved ~10-17% recall.
 Logistic regression: 
 
