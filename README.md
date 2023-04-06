@@ -53,6 +53,6 @@ Logistic regression:\
 ![Logistic-v2](https://user-images.githubusercontent.com/114886937/230269907-b6e970c0-0b16-42db-bba0-5ab7dd8d397f.png) \
 ![logistic-v3](https://user-images.githubusercontent.com/114886937/230269913-622f64f5-b206-47a4-a928-cebb3bb015b6.png) \
 
-SVM 
+SVM: \ 
 ![svm-linear](https://user-images.githubusercontent.com/114886937/230269938-71fa305d-d2c9-4c6c-a7ef-a6f6dccd3c99.png) \
 ![svm-grid](https://user-images.githubusercontent.com/114886937/230269941-50db60a1-89b9-4fd0-8190-11b4802ce302.png) \
