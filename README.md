@@ -57,3 +57,7 @@ SVM:
 
 ![svm-linear](https://user-images.githubusercontent.com/114886937/230269938-71fa305d-d2c9-4c6c-a7ef-a6f6dccd3c99.png) \
 ![svm-grid](https://user-images.githubusercontent.com/114886937/230269941-50db60a1-89b9-4fd0-8190-11b4802ce302.png) \
+
+Summary: \
+![Screenshot 2023-04-05 at 9 11 41 PM](https://user-images.githubusercontent.com/114886937/230270240-a9960f4d-c5dd-4cd2-8503-71891df60aa3.png)
+
